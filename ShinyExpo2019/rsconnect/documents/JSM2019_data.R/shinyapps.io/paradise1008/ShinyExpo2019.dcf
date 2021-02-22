@@ -1,0 +1,12 @@
+name: ShinyExpo2019
+title: ShinyExpo2019
+username:
+account: paradise1008
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 934930
+bundleId: 2271833
+url: https://paradise1008.shinyapps.io/ShinyExpo2019/
+when: 1564341522.47845
+asMultiple: FALSE
+asStatic: FALSE

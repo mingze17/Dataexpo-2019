@@ -1,0 +1,3 @@
+#### PCA or MCA is not appropriate due to sparsity of the survey. 
+
+#### Therefore, we employed ridge regression with *Rent* for the 52 variables related to house condition.
